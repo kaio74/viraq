@@ -1,0 +1,8 @@
+channels:
+	- bioconda
+dependencies:
+	- nanofilt
+	- nanoQC
+	- kaiju
+	- seqtk
+	- krona
