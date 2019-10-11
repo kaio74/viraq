@@ -1,8 +1,8 @@
 channels:
-	- bioconda
+   - bioconda
 dependencies:
-	- nanofilt
-	- nanoQC
-	- kaiju
-	- seqtk
-	- krona
+   - nanofilt
+   - nanoQC
+   - kaiju
+   - seqtk
+   - krona
