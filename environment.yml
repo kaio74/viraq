@@ -1,12 +1,10 @@
 channels:
    - bioconda
+   - conda-forge
 dependencies:
    - nanofilt
    - nanoQC
    - kaiju
    - seqtk
    - krona
-channels:
-   - conda-forge
-dependencies:
    - rise
