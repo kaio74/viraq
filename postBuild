@@ -1,0 +1,3 @@
+mkdir -p ~/kaiju/db
+wget -qO- http://kaiju.binf.ku.dk/database/kaiju_db_viruses_2019-06-25.tgz | tar -xvz -C ~/kaiju/db
+wget -qO- http://kaiju.binf.ku.dk/database/kaiju_db_rvdb_2019-06-25.tgz | tar -xvz -C ~/kaiju/db
