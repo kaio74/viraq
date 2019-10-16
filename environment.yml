@@ -6,3 +6,7 @@ dependencies:
    - kaiju
    - seqtk
    - krona
+channels:
+   - conda-forge
+dependencies:
+   - rise
